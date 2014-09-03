@@ -1,0 +1,187 @@
+
+buttons_misc.png
+format: RGBA8888
+filter: MipMapLinearNearest,MipMapLinearNearest
+repeat: none
+menu_title
+  rotate: false
+  xy: 1, 772
+  size: 719, 229
+  orig: 719, 229
+  offset: 0, 0
+  index: -1
+game_over_screen
+  rotate: false
+  xy: 1, 430
+  size: 560, 340
+  orig: 560, 340
+  offset: 0, 0
+  index: -1
+menu_button_highscores
+  rotate: false
+  xy: 1, 253
+  size: 475, 175
+  orig: 475, 175
+  offset: 0, 0
+  index: -1
+menu_button_howto
+  rotate: false
+  xy: 478, 253
+  size: 475, 175
+  orig: 475, 175
+  offset: 0, 0
+  index: -1
+menu_button_play
+  rotate: false
+  xy: 1, 76
+  size: 475, 175
+  orig: 475, 175
+  offset: 0, 0
+  index: -1
+button_reset_game
+  rotate: false
+  xy: 1, 1
+  size: 227, 73
+  orig: 227, 73
+  offset: 0, 0
+  index: -1
+button_revive
+  rotate: false
+  xy: 230, 1
+  size: 227, 73
+  orig: 227, 73
+  offset: 0, 0
+  index: -1
+button_submit_score
+  rotate: false
+  xy: 459, 1
+  size: 227, 73
+  orig: 227, 73
+  offset: 0, 0
+  index: -1
+touch
+  rotate: false
+  xy: 563, 480
+  size: 225, 290
+  orig: 225, 290
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 478, 91
+  size: 130, 160
+  orig: 130, 160
+  offset: 0, 0
+  index: -1
+bolt_button
+  rotate: false
+  xy: 610, 141
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+fifty_button
+  rotate: false
+  xy: 688, 29
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+green_button
+  rotate: false
+  xy: 722, 141
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+hundred_button
+  rotate: false
+  xy: 800, 29
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+menu_button_more
+  rotate: false
+  xy: 834, 141
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+menu_button_rate
+  rotate: false
+  xy: 912, 29
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+red_button
+  rotate: false
+  xy: 722, 891
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+revive_button
+  rotate: false
+  xy: 722, 779
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+time_button
+  rotate: false
+  xy: 834, 891
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+twenty_button
+  rotate: false
+  xy: 834, 779
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+menu_button_credits
+  rotate: false
+  xy: 790, 668
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+swarm_heart
+  rotate: false
+  xy: 901, 694
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 986, 239
+  size: 26, 762
+  orig: 26, 762
+  offset: 0, 0
+  index: -1
+yes
+  rotate: false
+  xy: 826, 451
+  size: 146, 73
+  orig: 146, 73
+  offset: 0, 0
+  index: -1
+no
+  rotate: false
+  xy: 826, 525
+  size: 146, 73
+  orig: 146, 73
+  offset: 0, 0
+  index: -1
+buy
+  rotate: false
+  xy: 826, 595
+  size: 146, 73
+  orig: 146, 73
+  offset: 0, 0
+  index: -1
